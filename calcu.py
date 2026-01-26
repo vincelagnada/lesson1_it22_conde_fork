@@ -6,6 +6,10 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
+#Mulato:
+def multiply(a, b):
+    return a * b
+
 # Conde:
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
