@@ -2,6 +2,10 @@
 def add(a, b):
     return a + b
 
+#Celeste:
+def subtract(a, b):
+    return a - b
+
 # Conde:
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
